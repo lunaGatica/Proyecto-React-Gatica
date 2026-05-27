@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Correa de cuero Firulai",
+    "categoria": "correas",
+    "precio": 4500,
+    "descripcion": "Correa resistente con mango acolchado. Ideal para paseos diarios.",
+    "imagen": "https://picsum.photos/id/237/300/300"
+  },
+  {
+    "id": 2,
+    "nombre": "Chaleco reflectante naranja",
+    "categoria": "chalecos",
+    "precio": 8900,
+    "descripcion": "Chaleco con tiras reflectantes, seguro para paseos nocturnos.",
+    "imagen": "https://picsum.photos/id/169/300/300"
+  },
+  {
+    "id": 3,
+    "nombre": "Chapita identificadora de acero",
+    "categoria": "chapitas",
+    "precio": 1200,
+    "descripcion": "Chapita grabable con nombre y teléfono. Incluye argolla.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_641415-MLA95576457281_102025-F.webp"
+  },
+  {
+    "id": 4,
+    "nombre": "Zapatos antideslizantes talla M",
+    "categoria": "zapatos",
+    "precio": 6700,
+    "descripcion": "Protege las patitas del frío, calor y asfalto. Suela de goma.",
+    "imagen": "hhttps://http2.mlstatic.com/D_NQ_NP_2X_975802-MLA90230165734_082025-F.webp"
+  },
+  {
+    "id": 5,
+    "nombre": "Shampoo hipoalergénico 500ml",
+    "categoria": "aseo",
+    "precio": 3200,
+    "descripcion": "pH balanceado, aroma a manzanilla. Adecuado para piel sensible.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_724487-MLA99360354294_112025-F.webp"
+  },
+  {
+    "id": 6,
+    "nombre": "Perfume en spray fresh",
+    "categoria": "aseo",
+    "precio": 2800,
+    "descripcion": "Perfume de larga duración, libre de alcohol. Aroma natural.",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_734178-MLU71332679432_082023-F.webp"
+  }
+]
